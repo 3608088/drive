@@ -1,0 +1,6 @@
+[[redirects]]
+from = "/*"
+to = "http://83.229.123.116:5216/:splat"
+status = 200
+force = false
+headers = {Host = "83.229.123.116:5216", X-Forwarded-Host = "83.229.123.116:5216"}
